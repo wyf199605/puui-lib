@@ -1,0 +1,6 @@
+[submodule "packages/puui"]
+	path = packages/puui
+	url = git@github.com:wyf199605/puui.git
+[submodule "packages/puui-demo"]
+	path = packages/puui-demo
+	url = git@github.com:wyf199605/puui-demo.git
